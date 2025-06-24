@@ -4,7 +4,7 @@ A modern, responsive landing page template designed for service-based businesses
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://yourusername.github.io/business-landing-page/)**
+**[View Live Demo](https://erzakaneki.github.io/business-landing-page/)**
 
 ## 📋 Overview
 
@@ -136,7 +136,7 @@ This template can be easily customized for:
 
 - [Email Me](3rza.kaneki@gmail.com)
 - [[LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)]
-- [Portfolio Website]
+- [Portfolio Website](TODO)
 
 ---
 
