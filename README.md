@@ -136,7 +136,7 @@ This template can be easily customized for:
 
 - [Email Me](3rza.kaneki@gmail.com)
 - [[LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)]
-- [Portfolio Website](TODO)
+<!--- [Portfolio Website](TODO)-->
 
 ---
 
