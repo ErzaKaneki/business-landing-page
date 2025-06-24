@@ -58,12 +58,12 @@ This landing page template is perfect for:
 
 This template can be easily customized for:
 
-| Business Type    | Customization Time | Potential Value |
-| ---------------- | ------------------ | --------------- |
-| Local Restaurant | 2-3 hours          | $800-1,500      |
-| Consulting Firm  | 1-2 hours          | $1,200-2,500    |
-| Fitness Studio   | 2-4 hours          | $1,000-2,000    |
-| Digital Agency   | 3-5 hours          | $1,500-3,000    |
+| Business Type    | Customization Time |
+| ---------------- | ------------------ |
+| Local Restaurant | 2-3 hours          |
+| Consulting Firm  | 1-2 hours          |
+| Fitness Studio   | 2-4 hours          |
+| Digital Agency   | 3-5 hours          |
 
 ## 🔧 Customization Guide
 
@@ -135,7 +135,7 @@ This template can be easily customized for:
 **Available for freelance projects and consultations**
 
 - [Email Me](3rza.kaneki@gmail.com)
-- [[LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)]
+- [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
 <!--- [Portfolio Website](TODO)-->
 
 ---
