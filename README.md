@@ -130,13 +130,15 @@ This template can be easily customized for:
 
 ---
 
-## 📞 Contact Information
+### Contact Information
 
-**Available for freelance projects and consultations**
+**Nevin Kadlec** - Full-Stack Developer
 
 - [Email Me](mailto:3rza.kaneki@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nevin-kadlec/)
-<!--- [Portfolio Website](TODO)-->
+<!--- [Portfolio Projects](TODO)-->
+
+_Specializing in business automation, web applications, and productivity solutions_
 
 ---
 
